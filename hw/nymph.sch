@@ -28,12 +28,15 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:oscillator
+LIBS:10m08SAE
+LIBS:microcontroller
 LIBS:nymph-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 1 4
 Title ""
 Date ""
 Rev ""
@@ -43,4 +46,22 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Sheet
+S 900  900  1600 1500
+U 55E34514
+F0 "PowerSection" 60
+F1 "file55E34513.sch" 60
+$EndSheet
+$Sheet
+S 5200 1000 2150 1750
+U 55E34528
+F0 "MainFPGA" 60
+F1 "main_fpga.sch" 60
+$EndSheet
+$Sheet
+S 1050 3750 1600 1900
+U 55E34534
+F0 "Microcontroller" 60
+F1 "../../plugmodules/processing/mkl27zxxvlh4.sch" 60
+$EndSheet
 $EndSCHEMATC
