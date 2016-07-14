@@ -4,4 +4,4 @@
 
 ## Placa
 
-![block diagram](draw/nymph.svg)
+![block diagram](draw/nymph.png)
