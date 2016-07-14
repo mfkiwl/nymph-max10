@@ -1,6 +1,7 @@
 # Nymph
 
 
-## Board
-## Build
-## Examples
+
+## Placa
+
+![block diagram](draw/nymph.svg)

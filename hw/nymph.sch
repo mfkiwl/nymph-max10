@@ -31,6 +31,7 @@ LIBS:valves
 LIBS:oscillator
 LIBS:10m08SAE
 LIBS:microcontroller
+LIBS:switched_mode_regulator
 LIBS:nymph-cache
 EELAYER 25 0
 EELAYER END

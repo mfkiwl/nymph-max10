@@ -1,4 +1,4 @@
-update=Dom 08 Nov 2015 15:25:14 BRST
+update=Seg 09 Nov 2015 07:39:42 BRST
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../pluglib/processing
+LibDir=../../pluglib/processing;../../pluglib/power
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -62,3 +62,4 @@ LibName30=valves
 LibName31=oscillator
 LibName32=10m08SAE
 LibName33=/home/familia/projetos/pessoais/mutalabs/pluglib/processing/microcontroller
+LibName34=/home/familia/projetos/pessoais/mutalabs/pluglib/power/switched_mode_regulator
