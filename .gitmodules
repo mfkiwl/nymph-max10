@@ -1,0 +1,6 @@
+[submodule "hw/plugmodules"]
+	path = hw/plugmodules
+	url = https://github.com/plugfects/plugmodules.git
+[submodule "hw/pluglib"]
+	path = hw/pluglib
+	url = https://github.com/plugfects/pluglib.git
