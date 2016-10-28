@@ -1,4 +1,4 @@
-update=Seg 09 Nov 2015 07:39:42 BRST
+update=ter 18 out 2016 07:23:55 BRST
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../pluglib/processing;../../pluglib/power
+LibDir=pluglib/processing;pluglib/power
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -61,5 +61,6 @@ LibName29=contrib
 LibName30=valves
 LibName31=oscillator
 LibName32=10m08SAE
-LibName33=/home/familia/projetos/pessoais/mutalabs/pluglib/processing/microcontroller
-LibName34=/home/familia/projetos/pessoais/mutalabs/pluglib/power/switched_mode_regulator
+LibName33=fpga
+LibName34=Arduino_Mega_R3/Arduino_Mega-cache
+LibName35=/home/familia/Arduino_Shield_Modules_for_KiCad_V3/arduino_shieldsNCL
